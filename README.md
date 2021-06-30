@@ -1,9 +1,5 @@
 # MAP COLORING USING BACKTRACKING
 
-    -Kavit Shah
-    -Dhaivat Patel
-    -Monaal Sanghvi
-
 ## Introduction
 
  Figuring out what color to put where while making a map can be a task if it has to be done by hand. Map coloring using backtracking is an extremely useful application that has been used widely since the late 1970’s. It is one of the early applications of artificial intelligence. It is solved by the constraint satisfaction problem which efficiently colors the map making sure that there are no two adjacent regions have the same color.
@@ -52,3 +48,9 @@ Also verify that all the python libraries and Python3 is installed on the system
 The code runs for both jpeg and png images
 
 One caveat for the images is to have white border for separating the different regions.	
+
+## Project by
+
+	-Kavit Shah
+	-Dhaivat Patel
+	-Monaal Sanghvi
