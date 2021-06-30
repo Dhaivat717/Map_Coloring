@@ -33,8 +33,11 @@ We will take this image and use OpenCV library to read the image. We detect the 
 
 ## Input Image
 
+![Picture1](https://user-images.githubusercontent.com/79534543/123884246-d28f9600-d918-11eb-9c95-8e2469df2b34.jpg)
+
 ## Output Image
 
+![Picture2](https://user-images.githubusercontent.com/79534543/123884312-f6eb7280-d918-11eb-998b-3bc155c5eb73.jpg)
 
 ## Conclusion and Future scope
 
